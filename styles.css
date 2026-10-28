@@ -1,0 +1,24 @@
+body{
+  margin: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.profile{
+  width:150px ;
+  border: 1px solid black;
+}
+.card{
+  
+  border: 1px solid lightblue;
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+  margin: 0 auto;
+  width: 300px;
+  text-align: center;
+  background: lightblue;
+  border-bottom: 5px solid purple;
+  border-radius: 10px;
+  
+  color: blueviolet;
+}
